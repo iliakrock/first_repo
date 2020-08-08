@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../array_08.08/.idea/array_08.08.iml" filepath="$PROJECT_DIR$/../array_08.08/.idea/array_08.08.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/php_empty_project.iml" filepath="$PROJECT_DIR$/.idea/php_empty_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
     </modules>
